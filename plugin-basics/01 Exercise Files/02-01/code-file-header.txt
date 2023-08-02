@@ -1,0 +1,12 @@
+<?php
+/*
+Plugin Name: Simple Example Plugin
+Description: Welcome to WordPress plugin development.
+Plugin URI:  https://tassawer.com/
+Author:      Tassawer Hussain
+Version:     1.0
+License:     GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.txt
+*/
+
+
