@@ -305,6 +305,10 @@ Visit the following links to read more about [Plugin Internationalization](https
 - [REST API Reference](https://developer.wordpress.org/rest-api/reference/)
 - [REST API](https://developer.wordpress.org/rest-api/)
 
+## Developer Resources
+- [Detailed Plugin Guidelines](https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/)
+- [Plugin Developer FAQ](https://developer.wordpress.org/plugins/wordpress-org/plugin-developer-faq)
+
 ## Interested To Hire Me
 
 Hire me for your next WordPress plugin development from one of the following.
